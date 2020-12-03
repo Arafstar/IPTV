@@ -1,0 +1,194 @@
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/mohonatv.png" tvg-name="Mohona TV"  group-title="Bangla",Mohona TV
+http://tv.dflix.live:8082/50/mono.m3u8?token=36665a0742d87457ebc3f03cac748c92895122c9-3f2f28f9151b2c0d7c47fb5f55f72657-1606988207-1606977407&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/mytv.png" tvg-name="My Tv"  group-title="Bangla",My Tv
+http://tv.dflix.live:8082/56/mono.m3u8?token=9930cc1a25437c3315a970fc48dd1894e8bfce99-7ed3900b0c02004c993267f4a6c791a9-1606988277-1606977477&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/news24.png" tvg-name="News 24"  group-title="Bangla",News 24
+http://tv.dflix.live:8082/18/mono.m3u8?token=7d86348419632a6ffc716117ab43f55f770947c7-373aa7278a2d77a2671305a44584bbe6-1606988321-1606977521&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/channel24.png" tvg-name="Channel 24"  group-title="Bangla",Channel 24
+http://tv.dflix.live:8082/5/mono.m3u8?token=813554fe87715cbf1362d4d8a69cbccae8dfe1b7-6e7a56ec130849e26469f05327a7134d-1606988345-1606977545&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/independent.png" tvg-name="Independent TV"  group-title="Bangla",Independent TV
+http://tv.dflix.live:8082/12/mono.m3u8?token=fe6842322aba36073edb0e42bb434f11be259e32-0aa666a3bbb4460e80d37b582ee773ed-1606988367-1606977567&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/nagoriktv.png" tvg-name="Nagorik TV"  group-title="Bangla",Nagorik TV
+http://tv.dflix.live:8082/59/mono.m3u8?token=2a106e6c53c6cef6fc39b974c570115b87c7759c-fef157ef8222c7507ca639b4fbdaf884-1606988392-1606977592&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/ntv.png" tvg-name="N TV"  group-title="Bangla",N TV
+http://tv.dflix.live:8082/54/mono.m3u8?token=f8b2d98e6112e6ec86b332805f0ca026de72043b-4df313a6cfa1394c1b05e9f73fc6c7a4-1606988434-1606977634&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/gannbangla.png" tvg-name="Gaan Bangla"  group-title="Bangla",Gaan Bangla
+http://tv.dflix.live:8082/58/mono.m3u8?token=a1c318a9cb7ee6ee40f954caaf94be19cf70e075-1c3efb74305881b876c66138d259d534-1606988468-1606977668&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/85.jpg" tvg-name="Anado TV"  group-title="Bangla",Anado TV
+http://tv.dflix.live:8082/16/mono.m3u8?token=9590ebf62c311db44ae04c817dfda8830a2c74e1-786890e02c9ba5a6462a4c0411a2668f-1606988646-1606977846&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/deshtv.png" tvg-name="Desh TV"  group-title="Bangla",Desh TV
+http://tv.dflix.live:8082/9/mono.m3u8?token=b73e8f169ad32162deb273da058b13f41b52e179-559130f12056616e07930eae65d74315-1606988675-1606977875&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/rtv.png" tvg-name="R TV"  group-title="Bangla",R TV
+http://tv.dflix.live:8082/14/mono.m3u8?token=dc5e6c0edad2aa60da5ad1c42427db3d685e1f15-8d0968797e4a79721ff4c4b248fa7d81-1606988702-1606977902&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/satv.png" tvg-name="SATV"  group-title="Bangla",SATV
+http://tv.dflix.live:8082/15/mono.m3u8?token=8d0422f940bb26f3ec5f98ee42782e1c650027aa-6e6bacb62450c9dbcf8d3c66ed30677d-1606988728-1606977928&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/duronto.png" tvg-name="Duronto TV"  group-title="Kids",Duronto TV
+http://tv.dflix.live:8082/10/mono.m3u8?token=fbcd8408e404c0d401ebb8f4c8c4e1490a713e90-3941b5317a6776d158dd086ab014ac27-1606988751-1606977951&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/jamunatv.png" tvg-name="Jamuna TV"  group-title="Bangla",Jamuna TV
+http://tv.dflix.live:8082/13/mono.m3u8?token=9bc4e10f1fdbb4aeff042f003604c614633c70ee-caca97496773a6564efac71aeaa1d7f0-1606988781-1606977981&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/boishakhitv.png" tvg-name="Boishakhi TV"  group-title="Bangla",Boishakhi TV
+http://tv.dflix.live:8082/61/mono.m3u8?token=5b93dbd321675f0efd5802262bcbf77369af0d7d-1449d5d9851d30ff5d6920bda2a63715-1606988808-1606978008&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/banglatv.png" tvg-name="Bangla TV"  group-title="Bangla",Bangla TV
+http://tv.dflix.live:8082/19/mono.m3u8?token=6af3da103b67f6ff7697af138529c467edc6699e-5976c8bda047bf74493dff64e384bd35-1606988934-1606978134&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/banglavision.png" tvg-name="Bangla Vision"  group-title="Bangla",Bangla Vision
+http://tv.dflix.live:8082/3/mono.m3u8?token=2a2298e0e3eeefeb8cf227bc9428ba4199aeecc2-f032d69ded08d57d49beb690e7590bab-1606988958-1606978158&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/asiantv.png" tvg-name="Asian TV"  group-title="Bangla",Asian TV
+http://tv.dflix.live:8082/62/mono.m3u8?token=f12116759db1fc34a07be89733cdcd97f5947a31-9deb163ec3ce6a152d08e0f7cc9da439-1606988981-1606978181&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/atnbangla.png" tvg-name="ATN Bangla"  group-title="Bangla",ATN Bangla
+http://tv.dflix.live:8082/2/mono.m3u8?token=95786e23b1b7642861dbc72db78e9bf0bcc30661-2d9d779cf981ef55f0b32041c63a709f-1606989000-1606978200&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/atnmusic.png" tvg-name="ATN Music"  group-title="Bangla",ATN Music
+http://103.49.168.172:8081/ebox/bd_atn_music/chunks.m3u8?nimblesessionid=13618863&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDEyOjMzOjMwIFBNJmhhc2hfdmFsdWU9TjNEWmtsZHJPUnJPa2JqSWp0N1RPUT09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/channeli.png" tvg-name="Channel i"  group-title="Bangla",Channel i
+http://tv.dflix.live:8082/6/mono.m3u8?token=6d8b11c6d8907dbbc26377c27c1b2e98cdf39e5c-4e7210a64393048a5a17f2aeaf5acea9-1606989325-1606978525&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/ekattortv.png" tvg-name="Ekattor TV"  group-title="Bangla",Ekattor TV
+http://tv.dflix.live:8082/11/mono.m3u8?token=820c6527f03901db6c2dca57bf2316f4565e9fc9-55844f18f798b75330a03b17a89b1cbf-1606989351-1606978551&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/somoytv.png" tvg-name="Somoy TV"  group-title="Bangla",Somoy TV
+http://tv.dflix.live:8082/17/mono.m3u8?token=c64c4edb4851f753df0940260eeae865230b6e75-894529616f1bd729db69f53fe57ae61c-1606989376-1606978576&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/gtv.png" tvg-name="GTV"  group-title="Bangla",GTV
+http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8?nimblesessionid=13622087&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDEyOjQ3OjA2IFBNJmhhc2hfdmFsdWU9eGQ1TzZ6NlZTeXpTMkRJUkhkZXlHZz09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/dbcnews.png" tvg-name="DBC News"  group-title="Bangla",DBC News
+http://103.49.168.172:8081/ebox/bd_dbc_news/chunks.m3u8?nimblesessionid=13620964&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDEyOjQyOjE5IFBNJmhhc2hfdmFsdWU9Z2VSWGVaUE5hWG4xZk5xR3prMFBqZz09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/channel9.png" tvg-name="Channel 9"  group-title="Bangla",Channel 9
+http://103.49.168.172:8081/ebox/bd_channel_9/chunks.m3u8?nimblesessionid=13621189&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDEyOjQzOjEzIFBNJmhhc2hfdmFsdWU9Z3ZuVXUxcmlLNFlCVXAwbjJJWWdTZz09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/deeptotv.png" tvg-name="Dipto TV"  group-title="Bangla",Dipto TV
+http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8?nimblesessionid=13621360&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDEyOjQzOjU4IFBNJmhhc2hfdmFsdWU9dGgzVmlCNVNpWExlSThRTmxVcytZdz09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/starjalshahd.png" tvg-name="Star Jalsha HD"  group-title="Indian",Star Jalsha HD
+http://103.49.168.172:8081/ebox/in_starjalsha_hd/chunks.m3u8?nimblesessionid=13630225&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDE6MTc6MDIgUE0maGFzaF92YWx1ZT1TLzBhQlB1VEpBZmNRSTlONDQ1bUxnPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/jalshamovies.png" tvg-name="Jalsha Movies"  group-title="Indian Bangla",Jalsha Movies
+http://103.49.168.172:8081/ebox/in_jalshamovies/chunks.m3u8?nimblesessionid=13630734&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDE6MTg6NDAgUE0maGFzaF92YWx1ZT1uSFlNSVM5SFI5RG5paG5ud3doTmxnPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/zeebanglacinema.png" tvg-name="Zee Bangla Cinema"  group-title="Indian Bangla",Zee Bangla Cinema
+http://tv.dflix.live:8082/29/mono.m3u8?token=6d9fcf6fb0171aebb02bb699772155ee69770026-f73e762a71f8508ca16b9e41f66ebc01-1606925735-1606914935&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/colorsbangla.png" tvg-name="Colors Bangla"  group-title="Indian Bangla",Colors Bangla
+http://tv.dflix.live:8082/66/mono.m3u8?token=51e7fd3bfd3d92530f4f601826fef5c67e8ce4dd-c375680fb8cc43b11c269206f3d58eac-1606926326-1606915526&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/zeebangla.png" tvg-name="Zee Bangla"  group-title="Indian Bangla",Zee Bangla
+http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8?nimblesessionid=13629765&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDE6MTU6MjYgUE0maGFzaF92YWx1ZT1jSllZcVhURUVtVzh3aFUyTDZ4MzF3PT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/sangeetbangla.png" tvg-name="S Bangla"  group-title="Indian Bangla",S Bangla
+http://103.49.168.172:8081/ebox/in_sangeetbangla/chunks.m3u8?nimblesessionid=13629993&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDE6MTY6MTYgUE0maGFzaF92YWx1ZT1KUUMycitBeXJ6eWorT2llMHl4Z2RRPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/maasranga.png" tvg-name="Maasranga TV"  group-title="Bangla",Maasranga TV
+http://tv.dflix.live:8082/51/mono.m3u8?token=b06daeead40c0749465d775eaa778bf21e893b98-e2b0ff9295f9291677048e5a8bdecbf5-1606929914-1606919114&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/BTV.png" tvg-name="BTV"  group-title="Bangla",BTV
+http://tv.dflix.live:8082/53/mono.m3u8?token=ff8978c8f23437008ab03229070c5a37b1034e28-ccd3fb2587867ffb14f673e215a7bd5b-1606930004-1606919204&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/94.jpg" tvg-name="ATN Islamic"  group-title="Bangla",ATN Islamic
+http://tv.dflix.live:8082/63/mono.m3u8?token=fe14c4bf81f1fb8ca3af3dcfeae157da71d3cc46-7a173f511eefccd90c8050c9b3746173-1606930103-1606919303&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/108.jpg" tvg-name="ATN News"  group-title="Bangla",ATN News
+http://tv.dflix.live:8082/49/mono.m3u8?token=24b6a8f7de4d05f5d71c92169c9418761829ea12-b536643832fc55cf54627b78f78e1fc8-1606930194-1606919394&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/stargoldhd.png" tvg-name="Star Gold HD"  group-title="Indian",Star Gold HD
+http://tv.dflix.live:8082/75/mono.m3u8?token=354e4ced76e0e181fd79fc6e67f45bc7d7a654aa-f50b42ffa16d9f177fb1317459718358-1606930359-1606919559&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/starplus.png" tvg-name="Star Plus"  group-title="Indian",Star Plus
+http://tv.dflix.live:8082/67/mono.m3u8?token=81886bb755c8380c7c0ea0095ad2eb22c4bd9994-580e015926ad82dd6135d404d173a347-1606930420-1606919620&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/colors.png" tvg-name="Colors"  group-title="Indian",Colors
+http://tv.dflix.live:8082/68/mono.m3u8?token=60eb777e638d1dc09bcd40619e8b9626c83e49e4-d971c6961159d50fc775f31a892f4e98-1606930473-1606919673&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/sonymax.png" tvg-name="Sony Max HD"  group-title="Indian",Sony Max HD
+http://tv.dflix.live:8082/77/mono.m3u8?token=ced9726e7bc377813a7663b47f8990f5d567f950-87942e1bb3f60976dcebaeb875e4cb08-1606930523-1606919723&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/sonytvhd.png" tvg-name="Sony Ent. TV"  group-title="Indian",Sony Ent. TV
+http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8?nimblesessionid=13657775&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDI6NDI6MDcgUE0maGFzaF92YWx1ZT10N2Q3cjk4c1dTM2s0bW03a2ZDcG1BPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/andflix.png" tvg-name="& Flix HD"  group-title="English",& Flix HD
+http://103.49.168.172:8081/ebox/in_andflix_hd/chunks.m3u8?nimblesessionid=13658296&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDI6NDM6NDQgUE0maGFzaF92YWx1ZT12SGpiRkljT1c3aGhmVFJISUoybHZBPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/andxplorehd.png" tvg-name="& xlore"  group-title="Indian",& xlore
+http://103.49.168.172:8081/ebox/in_xplore/chunks.m3u8?nimblesessionid=13658731&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDI6NDU6MTYgUE0maGFzaF92YWx1ZT1ZellZZE13cHNqNDV6cXVMTDlvNjlBPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/zeetv.png" tvg-name="Zee TV"  group-title="Indian",Zee TV
+http://103.49.168.172:8081/ebox/in_zee_tv/chunks.m3u8?nimblesessionid=13658954&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDI6NDU6NTkgUE0maGFzaF92YWx1ZT1JYVJXQ2E5b2Y4TlVCcmhDcUNFZG9nPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/sonypixhd.png" tvg-name="Sony PIX"  group-title="English",Sony PIX
+http://103.49.168.172:8081/ebox/in_sonypix/chunks.m3u8?nimblesessionid=13659311&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDI6NDY6NTggUE0maGFzaF92YWx1ZT1YU0pjSWlrVlVaRURUKzY3RlMya0hnPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/tlc.png" tvg-name="TLC"  group-title="English",TLC
+http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8?nimblesessionid=13659656&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDI6NDc6NTIgUE0maGFzaF92YWx1ZT1BMXQwdmM2MkFSWlkwSFFSNVFwS3VnPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/sonysabhd.png" tvg-name="Sony SAB"  group-title="Indian",Sony SAB
+http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8?nimblesessionid=13659979&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDI6NDg6NDEgUE0maGFzaF92YWx1ZT1ZaDg5cnJua2NtS3VSb2NFajB3MlBnPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.ebox.live/img/channels/animalplanet.png" tvg-name="Animal Planet"  group-title="English",Animal Planet
+http://103.49.168.172:8081/ebox/in_animalplanet_hd/chunks.m3u8?nimblesessionid=13660273&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDI6NDk6MjEgUE0maGFzaF92YWx1ZT1mSDFITkxwZW1ZbE1sUFZCT0Fpa1RBPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/bbcworldnews.png" tvg-name="BBC World"  group-title="English",BBC World
+http://tv.dflix.live:8082/38/mono.m3u8?token=8278c42a192cd3dbba8bedc0624766ed098f1360-f1cc6a6ea22490380c01688b9fda838c-1606930513-1606919713&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv2.ebox.live/img/logos/star-movies.jpg" tvg-name="Star Movies Select HD"  group-title="English",Star Movies Select HD
+http://tv2.ebox.live:8080/live/star-movies.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/hbo.png" tvg-name="HBO"  group-title="English",HBO
+http://tv2.ebox.live:8080/live/hbo.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv2.ebox.live/img/logos/colorsinfinity.jpg" tvg-name="Colors Infinity"  group-title="English",Colors Infinity
+http://tv2.ebox.live:8080/live/color-Infinity.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/andtv.png" tvg-name="& TV"  group-title="Indian",& TV
+http://tv.dflix.live:8082/74/mono.m3u8?token=947e7e8396ced1a5df34a58bf62e46a409d0c271-4b7db861739550c00a1a68885832427d-1606931782-1606920982&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv2.ebox.live/img/logos/ptvsports.jpg" tvg-name="Ptv Sports"  group-title="Sports",Ptv Sports
+http://tv2.ebox.live:8080/live/ptvsports.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHungama_TV&psig=AOvVaw0UFA6KvXj5nqONqnyDTumm&ust=1607010880670000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNi-gpjUr-0CFQAAAAAdAAAAABAD" tvg-name="Hungama TV"  group-title="Kids",Hungama TV
+http://geni.ktk.si:49310/dione/hungama/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDM6NTE6MTggUE0maGFzaF92YWx1ZT1YWHc0bWw1N3ZUR0FrSDVLdFdsS1RnPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F396950154638094532%2F&psig=AOvVaw1fZW8AVVRmdztiMR0ARH0d&ust=1607010979161000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCbuMvUr-0CFQAAAAAdAAAAABAD" tvg-name="Nick"  group-title="Kids",Nick
+http://dpasdl08.tth.cl:8745/eros/nickhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIwIDM6NTU6NDEgUE0maGFzaF92YWx1ZT1jVE1uZzlWOWI3Qmp0SUx3clBHYjh3PT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv2.ebox.live/img/logos/sonysixhd.jpg" tvg-name="Sony Six"  group-title="Sports",Sony Six
+ttp://tv2.ebox.live:8080/live/sonysix.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/54.jpg" tvg-name="Cartoon Network"  group-title="Kids",Cartoon Network
+http://tv.dflix.live:8082/79/mono.m3u8?token=70e0cb7b8152804bb7984dc744d8d1360d304619-74cb404342999089cb34a367b3b1d90d-1606935362-1606924562&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/sonyespn.png" tvg-name="Sony ESPN"  group-title="Sports",Sony ESPN
+http://tv.dflix.live:8082/23/mono.m3u8?token=4b2b07fd0e56b3a5d635757aa553f4e453bdcadc-5a6c5f559206a70759ec9bbb65a82328-1606935507-1606924707&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/sony-ten-1.png" tvg-name="Sony Ten 1"  group-title="Sports",Sony Ten 1
+http://tv.dflix.live:8082/20/mono.m3u8?token=7c2434575ba4e5c6ef3f4029db6cc6f713fb4846-bdb45bd72c19024d04d7ff23a33eb9f4-1606935574-1606924774&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/starsportsselect1hd.png" tvg-name="Star Sports Select"  group-title="Sports",Star Sports Select
+http://tv.dflix.live:8082/27/mono.m3u8?token=bef495438221c5e9c974076804f325ac744261ed-eab90d1bb924e60c303adfc5bb1a1d34-1606935626-1606924826&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv.dflix.live/assets/images/natgeo.png" tvg-name="NAT Geo"  group-title="English",NAT Geo
+http://tv.dflix.live:8082/35/mono.m3u8?token=1eb244cff74c7a2f6bce7720f01b8f290f64f043-f02c5bdef8be4947b3eb2c6004076066-1606988487-1606977687&remote=43.230.122.126
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://tv2.ebox.live/img/logos/discovery.jpg" tvg-name="Discovery"  group-title="English",Discovery
+http://tv2.ebox.live:8080/live/discovery.m3u8
+
